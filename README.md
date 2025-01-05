@@ -13,14 +13,14 @@ Ce document explique comment configurer et exécuter le projet Bandersnatch.
 
 Voici l’arborescence du projet :
 
-project/                                                                        ├── README.txt    
+Projet-info-Bandersnatch-l2/                                                                        ├── README.txt    
 ├── app.py 
 ├── static/  
 │   ├── style.css
 │   ├── app.js  
 ├── templates/  
 │   └── index.html  
-
+├──README.txt
 
 - app.py : Le fichier principal pour démarrer le serveur Flask.
 - static/ : Contient les fichiers CSS et JavaScript.
