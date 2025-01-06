@@ -13,7 +13,7 @@ Ce document explique comment configurer et exécuter le projet Bandersnatch.
 
 Voici l’arborescence du projet :
 
-Projet-info-Bandersnatch-l2/                                                                        ├── README.txt    
+Projet-info-Bandersnatch-l2/                                                                     
 ├── app.py 
 ├──__pycache__/
 ├── static/  
