@@ -15,10 +15,13 @@ Voici l’arborescence du projet :
 
 Projet-info-Bandersnatch-l2/                                                                     
 ├── app.py 
+|
 ├──__pycache__/
+|
 ├── static/  
 │   ├── style.css
-│   ├── app.js  
+│   ├── app.js
+|
 ├── templates/  
 │   └── index.html  
 
@@ -33,7 +36,6 @@ Projet-info-Bandersnatch-l2/
 2. Installez les bibliothèques nécessaires une par une avec les commandes suivantes :
 
    pip install flask
-   pip install llama-cpp-python
    pip install googletrans==4.0.0-rc1
    
 
@@ -62,10 +64,8 @@ LLaMA 2 est utilisé pour la génération de contenu dans ce projet. Suivez ces 
 ## 7. Dépendances Python utilisées
 
 - Flask : Framework web pour Python.
-- llama-cpp-python : Interface Python pour interagir avec le modèle LLaMA 2.
 - googletrans : Pour la traduction automatique des histoires (version 4.0.0-rc1).
-- subprocess : Gère les processus système pour exécuter des commandes.
-- logging : Implémente des journaux pour déboguer et surveiller le système.
+- subprocess : Gère les processus système pour exécuter des commandes liées a l'IA.
 
 ## 8. Remarques
 
