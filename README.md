@@ -15,12 +15,13 @@ Voici l’arborescence du projet :
 
 Projet-info-Bandersnatch-l2/                                                                        ├── README.txt    
 ├── app.py 
+├──__pycache__/
 ├── static/  
 │   ├── style.css
 │   ├── app.js  
 ├── templates/  
 │   └── index.html  
-├──README.txt
+
 
 - app.py : Le fichier principal pour démarrer le serveur Flask.
 - static/ : Contient les fichiers CSS et JavaScript.
