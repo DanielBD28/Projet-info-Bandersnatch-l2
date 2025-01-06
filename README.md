@@ -15,15 +15,15 @@ Voici l’arborescence du projet :
 
 Projet-info-Bandersnatch-l2/                                                                     
 ├── app.py 
-|
+
 ├──__pycache__/
-|
+
 ├── static/  
-│   ├── style.css
-│   ├── app.js
-|
+  ├── style.css
+  ├── app.js
+
 ├── templates/  
-│   └── index.html  
+   └── index.html  
 
 
 - app.py : Le fichier principal pour démarrer le serveur Flask.
